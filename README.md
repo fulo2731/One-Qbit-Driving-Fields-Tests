@@ -9,3 +9,5 @@ context of the nuclear magnetic resonance phenomenon.
 
 On this repository we seek to graph some tests of the results of applying Ermakov Equation to a
 test case for a Precessing Field with Oscillating Amplitude (Case Ω(t) = Ω1)
+
+__________________________
